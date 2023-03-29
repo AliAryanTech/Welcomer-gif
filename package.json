@@ -1,0 +1,27 @@
+{
+   "name": "welcomer-gif",
+   "version": "2.0.0",
+   "description": "Welcome animated gif using canvas",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "node test.js"
+   },
+   "keywords": [
+      "welcome-gif",
+      "canvas",
+      "animated"
+   ],
+   "author": "AliAryanTech & Ctk-warrior",
+   "license": "AGPL-3.0",
+   "dependencies": {
+      "@canvas-fonts/arial-bold": "^1.0.4",
+      "axios": "^1.2.2",
+      "canvas": "^2.9.0",
+      "fs-extra": "^11.1.0",
+      "gif-encoder-2": "^1.0.5",
+      "gif-frames": "^1.0.1",
+      "image-size": "^1.0.2",
+      "jimp": "^0.16.2"
+   }
+}
