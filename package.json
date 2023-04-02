@@ -7,6 +7,14 @@
       "start": "node index.js",
       "test": "node test.js"
    },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAryanTech/Welcomer-gif.git"
+   },
+   "bugs": {
+    "url": "https://github.com/AliAryanTech/Welcomer-gif/issues"
+   },
+   "homepage": "https://github.com/AliAryanTech/Welcomer-gif",
    "keywords": [
       "welcome-gif",
       "canvas",
